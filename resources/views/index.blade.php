@@ -38,10 +38,11 @@
   .text1-1{
     padding: 5px 10px;
     margin-left: 50px;
+    color: #fff;
+    background-color: #ee668d;
   }
 
   th{padding-bottom: 20px;}
- 
   .a{padding-left: 80px;}
   .b{padding-left: 100px;}
   .c{padding-left: 100px;}
@@ -50,8 +51,18 @@
   .a1{padding-left: 20px;}
   .b1{margin-left: 50px;
       width:95%;}
-  .c1{margin-left: 100px;}
-  .d1{margin-left: 50px;}
+
+  .c1{
+      margin-left: 100px;
+      color: #fff;
+      background-color: #df7d13;
+      }
+
+  .d1{
+      margin-left: 50px;
+      color: #fff;
+      background-color: #53e62e;
+      }
 
 
 
